@@ -9,14 +9,14 @@ Extracting essential data from a dataset and displaying it is a crucial part of 
 - A reusable function to visualize stock trends efficiently.  
 
 ### 🔹 Data Extraction & Web Scraping  
-- ** 1**: Extract **stock data** using `yfinance`.  
-- ** 2**: Scrape **Tesla revenue data** using web scraping techniques.  
-- ** 3**: Extract **stock data** using `yfinance`.  
-- ** 4**: Scrape **GameStop (GME) revenue data** using web scraping.  
+- **1**: Extract **stock data** using `yfinance`.  
+- **2**: Scrape **Tesla revenue data** using web scraping techniques.  
+- **3**: Extract **stock data** using `yfinance`.  
+- **4**: Scrape **GameStop (GME) revenue data** using web scraping.  
 
 ### 🔹 Data Visualization  
-- ** 5**: Plot **Tesla stock graph** to analyze historical trends.  
-- ** 6**: Plot **GameStop stock graph** for financial insights.  
+- **5**: Plot **Tesla stock graph** to analyze historical trends.  
+- **6**: Plot **GameStop stock graph** for financial insights.  
 
 ## 📊 Technologies Used  
 - **Python**  
