@@ -25,7 +25,24 @@ Extracting essential data from a dataset and displaying it is a crucial part of 
 - **Matplotlib & Seaborn** (for data visualization)  
 - **Pandas** (for data manipulation)  
 
-## 🚀 How to Run the Project  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+## 📂 Google Colab Notebook  
+
+You can interact with the **Stock Market Data Extraction & Visualization** notebook directly in **Google Colab**:  
+
+(Stock_Market_Data_Extraction_and_Visualization.ipynb)  
+
+**Notebook File:** `Stock_Market_Data_Extraction_and_Visualization.ipynb`  
+- Contains stock data extraction, web scraping, and visualization.  
+- Allows interactive execution in **Google Colab** without local setup.  
+
+---
+## GameStop Stock Graphs  
+
+📊 **Stock Performance Visualization:**  
+- [GameStop Stock Graph](assets/GameStop%20stock%20graph.JPG)  
+- [GameStop Stock Graph (Version 2)](assets/GameStop%20stock%20graph_2.JPG)  
+
+Click the links to view the **charts representing GameStop’s stock trends**.  
+
+
+
