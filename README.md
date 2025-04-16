@@ -25,13 +25,16 @@ Extracting essential data from a dataset and displaying it is a crucial part of 
 - **Matplotlib & Seaborn** (for data visualization)  
 - **Pandas** (for data manipulation)  
 
+## 🔗 Google Colab Notebook  
+
+📄 **Stock Market Data Extraction & Visualization Notebook**  
+- **Filename:** `Stock_Market_Data_Extraction_and_Visualization.ipynb`  
+- **Contents:** stock data extraction, web scraping, and visualization 
+
+🔍 Access the full notebook here:  
+[📄 Open My Colab Notebook](Stock_Market_Data_Extraction_and_Visualization.ipynb) 
 ## Google Colab Notebook  
 
-**Notebook File:**  
-- Contains stock data extraction, web scraping, and visualization.  
-(Stock_Market_Data_Extraction_and_Visualization.ipynb)  
-
----
 ## GameStop Stock Graphs  
 
 📊 **Stock Performance Visualization:**  
